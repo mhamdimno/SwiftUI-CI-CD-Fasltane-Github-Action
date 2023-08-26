@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0d31137eef4fff6a93097d50db09c013ce61aeabc1796fb45a597dd676fd7b3d"
+build_start_time: [1693031348, 242828000]
+build_end_time: [1693031352, 431110000]
+inputs:
+  "/Volumes/Data/Downloads/@others/CI_CD_test/CI_CD_testTests/CI_CD_testTests.swift": [1693029336, 0]
